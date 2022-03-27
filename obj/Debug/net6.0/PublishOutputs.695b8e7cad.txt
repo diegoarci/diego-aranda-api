@@ -1,0 +1,11 @@
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\diego-aranda-api.exe
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\diego-aranda-api.dll
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\diego-aranda-api.deps.json
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\diego-aranda-api.runtimeconfig.json
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\diego-aranda-api.pdb
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tritu\Desktop\ARANDA\diego-aranda-api\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
