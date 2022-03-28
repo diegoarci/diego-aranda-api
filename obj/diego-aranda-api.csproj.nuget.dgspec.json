@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tritu\\Desktop\\ARANDA\\diego-aranda-api\\diego-aranda-api.csproj": {}
+    "C:\\Users\\tritu\\Desktop\\TEST ARANDA\\diego-aranda-api\\diego-aranda-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tritu\\Desktop\\ARANDA\\diego-aranda-api\\diego-aranda-api.csproj": {
+    "C:\\Users\\tritu\\Desktop\\TEST ARANDA\\diego-aranda-api\\diego-aranda-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tritu\\Desktop\\ARANDA\\diego-aranda-api\\diego-aranda-api.csproj",
+        "projectUniqueName": "C:\\Users\\tritu\\Desktop\\TEST ARANDA\\diego-aranda-api\\diego-aranda-api.csproj",
         "projectName": "diego-aranda-api",
-        "projectPath": "C:\\Users\\tritu\\Desktop\\ARANDA\\diego-aranda-api\\diego-aranda-api.csproj",
+        "projectPath": "C:\\Users\\tritu\\Desktop\\TEST ARANDA\\diego-aranda-api\\diego-aranda-api.csproj",
         "packagesPath": "C:\\Users\\tritu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tritu\\Desktop\\ARANDA\\diego-aranda-api\\obj\\",
+        "outputPath": "C:\\Users\\tritu\\Desktop\\TEST ARANDA\\diego-aranda-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tritu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Razor.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22153.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22153.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22153.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
